@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 name: Gwenn's site
 title: null
+github:
+  is_project_page: false
