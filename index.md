@@ -2,16 +2,16 @@
 
 ### Shadertoys :
 
-- [Tree in the wind](https://www.shadertoy.com/view/tdjyzz)
-![Image](images/tree-in-the-wind.png)
+- Tree in the wind [(Shader)](https://www.shadertoy.com/view/tdjyzz){:target="_blank"}
+![Image](images/tree-in-the-wind.png){: .shadow}
 
-- [The beach](https://www.shadertoy.com/view/3sy3Wy)
+- The beach [(Shader)](https://www.shadertoy.com/view/3sy3Wy){:target="_blank"}
 ![Image](images/the-beach-v2.png)
 
-- [Campfire at night](https://www.shadertoy.com/view/Wtc3W2)
+- Campfire at night [(Shader)](https://www.shadertoy.com/view/Wtc3W2){:target="_blank"}
 ![Image](images/campfire-at-night.png)
 
-- [Lightsaber duel](https://www.shadertoy.com/view/lsVXRh)
+- Lightsaber duel [(Shader)](https://www.shadertoy.com/view/lsVXRh){:target="_blank"}
 ![Image](images/lightsaber-duel.png)
 
 
@@ -32,16 +32,16 @@
 
 ### (Old) Personal projects :
 
-- [Sand castle engine | Custom C++ engine](https://www.youtube.com/watch?v=cFkd4efEQKk)
+- [Sand castle engine | Custom C++ engine](https://www.youtube.com/watch?v=cFkd4efEQKk){:target="_blank"}
 ![Image](images/sce.png)
 
-- [Life of bob, a vampire story | Unity game](https://www.youtube.com/watch?v=Q-TYjj33TH4)
+- [Life of bob, a vampire story | Unity game](https://www.youtube.com/watch?v=Q-TYjj33TH4){:target="_blank"}
 ![Image](images/life_of_bob.png)
 
-- [Drunken ninja Vs Aliens | Game jam in Unity](https://www.youtube.com/watch?v=_yHSVeH0XpM)
+- [Drunken ninja Vs Aliens | Game jam in Unity](https://www.youtube.com/watch?v=_yHSVeH0XpM){:target="_blank"}
 ![Image](images/drunken_ninja.png)
 
-- [Project sword | Java 2D fighting game](https://www.youtube.com/watch?v=ZhxmPZplz6E)
+- [Project sword | Java 2D fighting game](https://www.youtube.com/watch?v=ZhxmPZplz6E){:target="_blank"}
 ![Image](images/sword.png)
 
 
