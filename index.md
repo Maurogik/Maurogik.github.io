@@ -1,8 +1,19 @@
 ## Things I made
 
+### Demoscene productions:
+
+I submitted some artworks for demoscene competitions. I was creating 4 kilobytes executables that render an image. The pictures below are all screenshots from entries I submitted, they are rendered with path tracing using nothing but shader maths (no 3D assets).
+
+- Ealy bird: Released at Nova 2023. 1st place. [[Link]](https://demozoo.org/graphics/325420/){:target="_blank"}
+![Image](images/bird_1080p.png)
+
+- Storm: Released at Revision 2023. 1st place. [[Link]](https://demozoo.org/graphics/322479/){:target="_blank"}
+![Image](images/storm_1080p.jpg)
 
 
-### Shadertoys :
+### Shadertoys:
+
+I spend a lot of time making shaders on Shaderoy. Those are similar to tiny little rendering engines written inside a pixel shader.
 
 - Tree in the wind [[Shader]](https://www.shadertoy.com/view/tdjyzz){:target="_blank"}[[Video]](https://youtu.be/laUxOCEbJUM){:target="_blank"}
 ![Image](images/tree-in-the-wind.png)
@@ -17,7 +28,9 @@
 ![Image](images/lightsaber-duel.png)
 
 
-### (Some) Shipped games :
+### (Some) Shipped games:
+
+I was lucky to work on sevaral shipped games.
 
 - Star Wars : Squadrons | Graphics programmer
 ![Image](images/squadrons.jpg)
@@ -32,7 +45,9 @@
 ![Image](images/fh3.png)
 
 
-### (Old) Personal projects :
+### (Old) Personal projects:
+
+We all have to start somewhere :). Those are some older personal projects I worked on when I was in University.
 
 - Sand castle engine | Custom C++ engine [[Video]](https://www.youtube.com/watch?v=cFkd4efEQKk){:target="_blank"}
 ![Image](images/sce.png)
