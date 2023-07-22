@@ -4,10 +4,10 @@
 
 I submitted some artwork for demoscene competitions. I was creating 4-kilobyte executables that render an image. The pictures below are all screenshots from the entries I submitted. The rendering is done with path tracing using only shader maths (no 3D assets).
 
-- Ealy bird: Released at Nova 2023. 1st place. [[Link]](https://demozoo.org/graphics/325420/){:target="_blank"}
+- Ealy bird: Released at Nova 2023. 1st place. [[Image]](https://media.demozoo.org/screens/o/4d/ed/7c14.328232.jpg)[[Link]](https://demozoo.org/graphics/325420/){:target="_blank"}
 ![Image](images/bird_1080p.png)
 
-- Storm: Released at Revision 2023. 1st place. [[Link]](https://demozoo.org/graphics/322479/){:target="_blank"}
+- Storm: Released at Revision 2023. 1st place. [[Image]](https://media.demozoo.org/screens/o/2e/8f/fa15.324439.png)[[Link]](https://demozoo.org/graphics/322479/){:target="_blank"}
 ![Image](images/storm_1080p.jpg)
 
 
