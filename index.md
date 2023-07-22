@@ -4,14 +4,6 @@
 
 ### Shadertoys :
 
-
-[comment]: <> (Uses the github table syntax "| A | B |" )
-
-| Tree in the wind [[Shader]](https://www.shadertoy.com/view/tdjyzz){:target="_blank"}[[Video]](https://youtu.be/laUxOCEbJUM){:target="_blank"} | The beach [[Shader]](https://www.shadertoy.com/view/3sy3Wy){:target="_blank"}[[Video]](https://youtu.be/c9yfQYf5SfY){:target="_blank"} | Campfire at night [[Shader]](https://www.shadertoy.com/view/Wtc3W2){:target="_blank"}[[Video]](https://youtu.be/r8iq6GMLPIc){:target="_blank"} | Lightsaber duel [[Shader]](https://www.shadertoy.com/view/lsVXRh){:target="_blank"}[[Video]](https://youtu.be/gqOSqwkAKkI){:target="_blank"} | 
-| --- | --- | --- | --- |
-| ![Image](images/tree-in-the-wind.png) | ![Image](images/the-beach-v2.png) | ![Image](images/campfire-at-night.png) | ![Image](images/lightsaber-duel.png) |
-
-
 - Tree in the wind [[Shader]](https://www.shadertoy.com/view/tdjyzz){:target="_blank"}[[Video]](https://youtu.be/laUxOCEbJUM){:target="_blank"}
 ![Image](images/tree-in-the-wind.png)
 
