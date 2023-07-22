@@ -10,6 +10,9 @@ I submitted some artwork for demoscene competitions. I was creating 4-kilobyte e
 - Storm: Released at Revision 2023. 1st place. [[Image]](https://media.demozoo.org/screens/o/2e/8f/fa15.324439.png)[[Link]](https://demozoo.org/graphics/322479/){:target="_blank"}
 ![Image](images/storm_1080p.jpg)
 
+---
+---
+---
 
 ### Shadertoys:
 
@@ -27,6 +30,9 @@ I spend a lot of time making shaders on Shadertoy. Those are similar to tiny lit
 - Lightsaber duel [[Shader]](https://www.shadertoy.com/view/lsVXRh){:target="_blank"}[[Video]](https://youtu.be/gqOSqwkAKkI){:target="_blank"}
 ![Image](images/lightsaber-duel.png)
 
+---
+---
+---
 
 ### (Some) Shipped games:
 
@@ -44,6 +50,9 @@ I was lucky to work on several shipped games.
 - Forza horizon 3 | Game programmer
 ![Image](images/fh3.png)
 
+---
+---
+---
 
 ### (Old) Personal projects:
 
