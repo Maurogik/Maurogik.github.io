@@ -13,7 +13,7 @@ I submitted some artworks for demoscene competitions. I was creating 4 kilobytes
 
 ### Shadertoys:
 
-I spend a lot of time making shaders on Shaderoy. Those are similar to tiny little rendering engines written inside a pixel shader.
+I spend a lot of time making shaders on Shadertoy. Those are similar to tiny little rendering engines written inside a pixel shader.
 
 - Tree in the wind [[Shader]](https://www.shadertoy.com/view/tdjyzz){:target="_blank"}[[Video]](https://youtu.be/laUxOCEbJUM){:target="_blank"}
 ![Image](images/tree-in-the-wind.png)
@@ -30,7 +30,7 @@ I spend a lot of time making shaders on Shaderoy. Those are similar to tiny litt
 
 ### (Some) Shipped games:
 
-I was lucky to work on sevaral shipped games.
+I was lucky to work on several shipped games.
 
 - Star Wars : Squadrons | Graphics programmer
 ![Image](images/squadrons.jpg)
