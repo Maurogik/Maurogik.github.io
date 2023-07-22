@@ -2,7 +2,7 @@
 
 ### Demoscene productions:
 
-I submitted some artworks for demoscene competitions. I was creating 4 kilobytes executables that render an image. The pictures below are all screenshots from entries I submitted, they are rendered with path tracing using nothing but shader maths (no 3D assets).
+I submitted some artwork for demoscene competitions. I was creating 4-kilobyte executables that render an image. The pictures below are all screenshots from the entries I submitted. The rendering is done with path tracing using only shader maths (no 3D assets).
 
 - Ealy bird: Released at Nova 2023. 1st place. [[Link]](https://demozoo.org/graphics/325420/){:target="_blank"}
 ![Image](images/bird_1080p.png)
@@ -47,7 +47,7 @@ I was lucky to work on several shipped games.
 
 ### (Old) Personal projects:
 
-We all have to start somewhere :). Those are some older personal projects I worked on when I was in University.
+We all have to start somewhere :). Those are some older personal projects I worked on when I was in university.
 
 - Sand castle engine | Custom C++ engine [[Video]](https://www.youtube.com/watch?v=cFkd4efEQKk){:target="_blank"}
 ![Image](images/sce.png)
